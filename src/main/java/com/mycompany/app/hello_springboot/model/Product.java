@@ -1,4 +1,4 @@
-package com.mycompany.app.model;
+package com.mycompany.app.hello_springboot.model;
 
 public class Product {
     private Long id;

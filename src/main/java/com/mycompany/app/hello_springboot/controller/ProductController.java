@@ -1,7 +1,6 @@
-package com.mycompany.app.controller;
-
-import com.mycompany.app.model.Product;
-import com.mycompany.app.service.ProductService;
+package com.mycompany.app.hello_springboot.controller;
+import com.mycompany.app.hello_springboot.model.Product;
+import com.mycompany.app.hello_springboot.service.ProductService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

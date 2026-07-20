@@ -1,6 +1,5 @@
-package com.mycompany.app.service;
-
-import com.mycompany.app.model.Product;
+package com.mycompany.app.hello_springboot.service;
+import com.mycompany.app.hello_springboot.model.Product;
 import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
